@@ -1,0 +1,51 @@
+body  {
+    background-image: url("../img/fondover.png");
+	background-size: 33.33%;
+	margin:0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.aboutencabezado {
+	color: orange;
+	margin: 0;
+	padding: 1%;
+	font-family: impact;
+	font-weight: normal;
+	text-align: center;
+	font-size: 9vw;
+}
+
+.textoabout {
+	display: block;
+	color: lightcyan;
+	font-family: impact;
+	font-weight: normal;
+	font-size: 6vw;
+	padding-bottom:1%;
+	padding-top:1%;
+	text-align: center;
+}
+
+#creditos {
+	position: fixed;
+	height: 70%;
+	padding: 15% 5%;
+}
+
+#return {
+	display: block;
+	width: 100%;
+	color: orange;
+	font-family: impact;
+	font-weight: normal;
+	font-size: 5vw;
+	padding-bottom:1%;
+	padding-top:1%;
+	text-align: center;
+}
