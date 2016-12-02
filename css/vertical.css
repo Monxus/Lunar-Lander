@@ -37,7 +37,7 @@ a{
 	font-size: 6vw;
 }
 
-.numericos {
+.numeros {
 	color:lightcyan;
 }
 
@@ -66,7 +66,7 @@ a{
 	color: white;
 	font-family: impact;
 	font-weight: normal;
-	font-size: 9vw;
+	font-size: 10vw;
 	padding-bottom:7%;
 	padding-top:7%;
 	text-align: center;
@@ -106,25 +106,40 @@ a{
 	height:14%;
 }
 
-#imgcohete {
+#imgcohetehor {
+	display: none;
+}
+#imgcohetever {
 	display: block;
     margin: auto;
 	height: 100%;	
 }
+#imgprophor {
+	display: none;	
+}
+#imgpropver {
+	display: none;
+    margin: auto;
+	height: 100%;	
+}
 
-#divpropulsion {
-	display:none;
+#divexplosion {
+	display: none;
     position: fixed;
-    top: 35%;
+    bottom: 5%;
 	width: 100%;
-	height:4%;
+	height:14%;
 }
 
-#imgpropulsion {
+#imgexphor {
+	display: none;
+}
+#imgexpver {
 	display: block;
     margin: auto;
 	height: 100%;	
 }
+
 
 #divmenu {
 	position: fixed;
@@ -145,8 +160,8 @@ a{
 	position: fixed;
 	text-align: center;
 	border: solid #202020 8px;
-	padding-left: 15%;
-	padding-right: 15%;
+	padding-left: 25%;
+	padding-right: 25%;
 	top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -158,9 +173,9 @@ a{
 	background-color: #454545;
 	position: fixed;
 	border: solid #202020;
-	border-width: 8px;
-	width: 95%;
-	height: 98%;
+	border-width: 3 px;
+	width: 98.5%;
+	height: 99%;
 	top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -172,6 +187,7 @@ a{
 
 #return {
 	color: orange;
+	
 }
 
 #luna {
