@@ -38,14 +38,14 @@ ul {
 	padding: 15% 5%;
 }
 
-#return {
+#volver {
 	display: block;
 	width: 100%;
 	color: orange;
 	font-family: impact;
 	font-weight: normal;
-	font-size: 5vw;
+	font-size: 10vw;
 	padding-bottom:1%;
-	padding-top:1%;
+	padding-top:30%;
 	text-align: center;
 }
