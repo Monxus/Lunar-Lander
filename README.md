@@ -29,7 +29,7 @@ En esta versión se incluyen los siguientes elementos:
 5. *About*
  * Página externa con la información de las personas que han trabajado en el proyecto.
 
-#### Cambios realizados respecto al material original
+### Cambios realizados respecto al material original
 
 * **Luna:** La imagen se redujo de tamaño (de 400x133 a 306x133 en la versión horizontal y de 200x67 a 153x67 en la versión vertical), para que al repetirse la imagen se viese la superficie lunar de manera continua, sin que se notase el límite entre imágenes.
 * **Nave:** Para poder trabajar correctamente con la nave, tuvimos que hacer nuevas versiones de la nave a partir del material recibido. Las nuevas versiones de las imágenes (148x188 para la versión horizontal y 100x127 para la versión vertical), en las que se incluían dos versiones de la imagen (una de la nave normal, y otra con la propulsión).
@@ -39,6 +39,6 @@ En esta versión se incluyen los siguientes elementos:
 * **Menu instrucciones:** No se especificaron que instrucciones se debían incluir, por lo que se crearon basándonos en el material recibido. En este mismo menú se eliminaron las "Banderas" para la selección de idiomas y se utilizó texto, al no disponer de las imágenes adecuadas para implementarlo.
 * **About:** No estaba incluido en el material original.
 
-#### Otra información
+### Otra información
 
 * El código es responsive para adaptarse a los diferentes tamaños de pantallas.
