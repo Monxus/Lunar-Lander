@@ -27,7 +27,7 @@ En esta versión se incluyen los siguientes elementos:
     *  *About (Link externo):* Nos lleva a about.html
  * **Menú instrucciones (Oculto):** Incluye instrucciones de juego y elección de idioma.
 5. *About*
- * Página externa con la información de las personas que han trabajado en el proyecto.
+ * Página externa con la información de las personas que han trabajado en el proyecto. Al hacer click en "Volver" nos devuelve a index.html
 
 ### Cambios realizados respecto al material original
 
