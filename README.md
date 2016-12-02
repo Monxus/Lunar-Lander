@@ -21,10 +21,10 @@ En esta versión se incluyen los siguientes elementos:
  * **Pergamino del menú:** Cuando el juego funcione, nos llevará al menú al pulsarlo y pondrá el juego en pausa.
 4. *Menús*
  * **Menú principal (Oculto):**
-  * *Reanudar (no implementado):* Nos devolvería al juego.
-  * *Opciones (no implementado):* Conducirá al "Menú instrucciones" (ver más abajo)
-  * *Reinciar:* Nos devuelve a index.html
-  * *About (Link externo):* Nos lleva a about.html
+    *  *Reanudar (no implementado):* Nos devolvería al juego.
+    *  *Opciones (no implementado):* Conducirá al "Menú instrucciones" (ver más abajo)
+    *  *Reinciar:* Nos devuelve a index.html
+    *  *About (Link externo):* Nos lleva a about.html
  * **Menú instrucciones (Oculto):** Incluye instrucciones de juego y elección de idioma.
 5. *About*
  * Página externa con la información de las personas que han trabajado en el proyecto.
